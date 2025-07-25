@@ -12,7 +12,7 @@ The images were grouped into the following lifespan categories:
 | 4     | 13–15 days         |
 
 ## 🧠 Methodology
-- Data Collection: Images of oranges taken daily in controlled lighting conditions.
+- Data Collection: Images of oranges taken daily in controlled lighting conditions (https://drive.google.com/drive/folders/1bSLad71qfh-zSP04PjCRM9418jzIJn4b?usp=drive_link).
 - Data Preprocessing:
 - Resizing images
 - Normalization
